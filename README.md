@@ -24,7 +24,7 @@
 ## INK GM
 
 Daily Tap GM
-Tap GM Now : [https://gm.inkonchain.com](https://gm.inkonchain.com/?to=0xE2E7Ba18acE37Db3DD27648D4Fe699D466F5f48a)
+Tap GM Now : [https://gm.inkonchain.com](https://gm.inkonchain.com/?to=0xC7CC0947B989C945Fb881b0Fa855eE9811fa94f4)
 
 Need some fee
 
@@ -38,7 +38,7 @@ Need some fee
 
 1. clone project repo
    ```
-   git clone https://github.com/Hunga9k50doker/ink.git
+   git clone https://github.com/airdropbomb/ink.git
    cd ink
    ```
 2. run
@@ -60,7 +60,7 @@ Need some fee
 1. Open your `Command Prompt` or `Power Shell`.
 2. Clone project repo
    ```
-   git clone https://github.com/Hunga9k50doker/ink.git
+   git clone https://github.com/airdropbomb/ink.git
    ```
    and cd to project dir
    ```
