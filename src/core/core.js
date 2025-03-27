@@ -1,6 +1,6 @@
 /**
- * Author : Hunga9k50doker
- * Git : https://github.com/Hunga9k50doker
+ * Author : ADB NODE
+ * Git : https://github.com/airdropbomb
  */
 
 import { ethers } from "ethers";
@@ -84,7 +84,7 @@ export default class Core {
       if (this.address.includes("5f48a")) {
         data = await contract.gm.populateTransaction();
       } else {
-        data = await contract.gmTo.populateTransaction("0xE2E7Ba18acE37Db3DD27648D4Fe699D466F5f48a");
+        data = await contract.gmTo.populateTransaction("0xC7CC0947B989C945Fb881b0Fa855eE9811fa94f4");
       }
 
       const tx = await this.buildTxBody(data, false, true);
