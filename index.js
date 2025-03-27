@@ -56,7 +56,7 @@ async function startBot() {
     logger.info("");
     logger.info("Application Started");
     console.log(Helper.botName);
-    console.log("Join Channel : https://t.me/airdrophuntersieutoc");
+    console.log("Join Channel : https://t.me/airdropbombnode");
     await startBot();
   } catch (error) {
     twist.clear();
