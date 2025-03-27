@@ -1,6 +1,6 @@
 /**
- * Author : Hunga9k50doker
- * Git : https://github.com/Hunga9k50doker
+ * Author : ADB Node
+ * Git : https://github.com/airdropbomb
  */
 import { createLogger, format, transports } from "winston";
 import fs from "fs";
