@@ -1,6 +1,6 @@
 /**
- * Author : Hunga9k50doker
- * Git : https://github.com/Hunga9k50doker
+ * Author : ADB Node
+ * Git : https://github.com/airdropbomb
  */
 import { Twisters } from "twisters";
 import logger from "./logger.js";
