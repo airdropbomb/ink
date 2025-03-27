@@ -14,13 +14,13 @@
     "ink-gm-bot",
     "inkochain-bot",
     "inkochain-gm-bot",
-    "Hunga9k50doker"
+    "ADB Node"
   ],
-  "author": "Hunga9k50doker",
+  "author": "ADB Node",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hunga9k50doker/ink.git"
+    "url": "git+https://github.com/airdropbomb/ink.git"
   },
   "dependencies": {
     "bip39": "^3.1.0",
