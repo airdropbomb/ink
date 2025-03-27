@@ -5,13 +5,13 @@ const loadData = (file) => {
     const datas = fs.readFileSync(file, "utf8").replace(/\r/g, "").split("\n").filter(Boolean);
 
     if (datas.length <= 0) {
-      console.warn(`Không tìm thấy dữ liệu ${file}`);
+      console.warn(`No data found in ${file}`);
       return [];
     }
 
     return datas;
   } catch (error) {
-    console.error(`Không tìm thấy file ${file}`);
+    console.error(`File ${file} not found`);
     return [];
   }
 };
