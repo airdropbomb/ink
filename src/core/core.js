@@ -84,7 +84,7 @@ export default class Core {
       if (this.address.includes("5f48a")) {
         data = await contract.gm.populateTransaction();
       } else {
-        data = await contract.gmTo.populateTransaction("0xC7CC0947B989C945Fb881b0Fa855eE9811fa94f4");
+        data = await contract.gmTo.populateTransaction("0xa428527C12372773c5514A959ae89d777d76A448");
       }
 
       const tx = await this.buildTxBody(data, false, true);
